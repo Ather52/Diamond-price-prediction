@@ -59,12 +59,15 @@ To run this project locally:
 ### ⿡ Clone the Repository
 git clone https://github.com/ather52/Diamond-Price-Prediction.git
 cd Diamond-Price-Prediction
+```
 
 ### ⿢ Install Dependencies
 pip install -r requirements.txt
+```
 
 ### ⿣ Run the Jupyter Notebook
 jupyter notebook
+```
 
 ### 📦 Dependencies
 pandas
@@ -79,5 +82,5 @@ Feel free to fork, enhance, or raise issues.
 
 👤 Author: Muhammad Ather  
 📧 Contact: athertahir52@gmail.com
-```
+
 
