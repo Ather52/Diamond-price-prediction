@@ -55,19 +55,15 @@ These results demonstrate that the model captures complex relationships in the d
 ## ⚙️ How to Set Up and Run the Project
 To run this project locally:
 
+```bash
 ### ⿡ Clone the Repository
-bash
-git clone https://github.com/AhmadBinTariq/Diamond-Price-Prediction.git
+git clone https://github.com/ather52/Diamond-Price-Prediction.git
 cd Diamond-Price-Prediction
 
-
 ### ⿢ Install Dependencies
-bash
 pip install -r requirements.txt
 
-
 ### ⿣ Run the Jupyter Notebook
-bash
 jupyter notebook
 
 ### 📦 Dependencies
@@ -78,6 +74,10 @@ seaborn
 scikit-learn
 xgboost
 
-###📢 Contributions Welcome! Feel free to fork, enhance, or raise issues.
-👤 Author: Ahmad Bin Tariq
-📧 Contact: ahmadbintariq19@gmail.com
+### 📢 Contributions Welcome!
+Feel free to fork, enhance, or raise issues.
+
+👤 Author: Muhammad Ather  
+📧 Contact: athertahir52@gmail.com
+```
+
